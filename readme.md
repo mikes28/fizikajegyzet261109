@@ -8,8 +8,8 @@ Tárgy: fizika — dinamika (az elmúlt 1 hónapban tanult anyaggól)
 
 ---
 
-##Regi fuggvenytabla: 119-
-##Uj: 84-
+## Regi fuggvenytabla: 119-
+## Uj: 84-
 
 ## 1. Jelölések (mely betű mit jelent)
 
